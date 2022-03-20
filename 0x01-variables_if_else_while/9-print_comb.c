@@ -3,7 +3,7 @@
 /**
  * main - This program prints all possible combinations of
  * single digit numbers
- * Numbers are separated by a comma, printed in ascending order,
+ * Numbers are separated by a comma printed in ascending order,
  * and is printed with putchar only
  * Return: Always 0 (Success)
  */
