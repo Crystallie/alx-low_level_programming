@@ -11,8 +11,8 @@ int main(void)
 	int i;
 
 	for (ch = '0'; ch <= '9'; ch++)
-		putchar ch;
-	for (i = 97; i = 102; i++)
+		putchar (ch);
+	for (i = 97; i <= 102; i++)
 		putchar((int)i);
 
 	putchar('\n');
