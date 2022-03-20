@@ -18,7 +18,7 @@ int main(void)
 
 	char c = 'a';
 
-	while (c <= 'f')
+	while (c <= 'd')
 	{
 		putchar(c);
 		c++;
