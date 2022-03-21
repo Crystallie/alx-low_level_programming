@@ -17,7 +17,12 @@ int main(void)
 				putchar(i);
 
 				putchar(j);
+<<<<<<< HEAD
 				if (i != '8'		 || j != '9')
+=======
+						 
+ ​                                if (i != '8' || j != '9')
+>>>>>>> f7624d92641987fbf9fc67f8e2eabad30ee06d57
 				{
 putchar(',');
 putchar(' ');
